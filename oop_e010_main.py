@@ -2,7 +2,7 @@ import oop_e010_mTask as mTask
 from math import pi
 from math import pow as new_pow
 def main():
-    """abcdef"""
+    """abcdefg"""
     print(main.__doc__)
     print (new_pow(2.,3.))
     formulation = "Задать переменную один, переменую два и переменную три",\
